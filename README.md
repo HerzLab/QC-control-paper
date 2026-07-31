@@ -1,7 +1,7 @@
 # iEEG Session-Level QC Pipeline
 
 ## Overview
-This repository contains a modular quality control (QC) framework for intracranial EEG (iEEG) experiments involving cognitive tasks and optional direct electrical stimulation.
+This repository contains a modular quality control (QC) framework for intracranial EEG (iEEG) experiments involving cognitive tasks and direct electrical stimulation.
 
 The pipeline integrates:
 - Electrophysiological recordings
